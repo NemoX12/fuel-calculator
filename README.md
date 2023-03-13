@@ -7,4 +7,7 @@
 3. Open in browser *(optional)*
 4. You can custom content under the comment
 
+## URL:
+### https://mac-window.netlify.app
+
 ## Like this repo
